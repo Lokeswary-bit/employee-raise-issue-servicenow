@@ -132,37 +132,37 @@ The application was tested by submitting an employee issue through the Service P
 
 The custom application created for the Employee Raise Issue project.
 
-![ServiceNow Application](screenshots/application.png)
+![ServiceNow Application](https://drive.google.com/file/d/13FSZ31q4OVmQQK9xHzoi0D-wEWj907wF/view?usp=drive_link)
 
 ### Employee Raise Issue Table
 
 The custom table used to store employee issue records.
 
-![Employee Raise Issue Table](screenshots/custom-table.png)
+![Employee Raise Issue Table](https://drive.google.com/file/d/1ZvdoMSHYdJhsz7k5HRegnIYleRK8PRMZ/view?usp=sharing)
 
 ### Record Producer
 
 The Raise Employee Issue Record Producer used for submitting employee issues.
 
-![Raise Employee Issue Record Producer](screenshots/record-producer.png)
+![Raise Employee Issue Record Producer](https://drive.google.com/file/d/1VVWbCFXyz61ykX9ezynLV-gipy9SYPv6/view?usp=drive_link)
 
 ### Service Portal
 
 The Service Portal through which employees can access the issue submission functionality.
 
-![Service Portal](screenshots/service-portal.png)
+![Service Portal](https://drive.google.com/file/d/1hR7-tf3PFHM5_oCjJjKUsNQB3KFfSgI1/view?usp=drive_link)
 
 ### Employee Raise Issue Form
 
 The form used by employees to enter and submit their issue details.
 
-![Employee Issue Form](screenshots/employee-issue-form.png)
+![Employee Issue Form](https://drive.google.com/file/d/1MudlvUSlB4J5q-l0-x4S9Q-4yUpACwMR/view?usp=sharing)
 
 ### Created Employee Issue Record
 
 After submitting the form, the issue is stored as a new record in the Employee Raise Issue table.
 
-![Created Employee Issue Record](screenshots/created-record.png)
+![Created Employee Issue Record](https://drive.google.com/file/d/16wNl1P5-76h5acwzqeNyIbZvh5ePnmTZ/view?usp=drive_link)
 
 ## Testing
 

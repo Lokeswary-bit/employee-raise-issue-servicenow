@@ -194,7 +194,7 @@ The demo demonstrates:
 
 Detailed project documentation containing the project implementation, configuration details, screenshots, workflow, and testing information is available in the `project-details` folder.
 
-[View Project Documentation](project-details/project-documentation.pdf)
+[View Project Documentation](https://drive.google.com/drive/folders/1muc0hhAJuAR5HioafKgLDIXixFsZ7UI5?usp=sharing)
 
 ## Conclusion
 

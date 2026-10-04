@@ -138,31 +138,31 @@ The custom application created for the Employee Raise Issue project.
 
 The custom table used to store employee issue records.
 
-![Employee Raise Issue Table](https://drive.google.com/drive/folders/1XWaFzNgYsMqIwuGcWTROwQAoAZLa-94j?usp=drive_link)
+![Employee Raise Issue Table](https://github.com/Lokeswary-bit/employee-raise-issue-servicenow/tree/main/screenshots)
 
 ### Record Producer
 
 The Raise Employee Issue Record Producer used for submitting employee issues.
 
-![Raise Employee Issue Record Producer](https://drive.google.com/drive/folders/1XWaFzNgYsMqIwuGcWTROwQAoAZLa-94j?usp=drive_link)
+![Raise Employee Issue Record Producer](https://github.com/Lokeswary-bit/employee-raise-issue-servicenow/tree/main/screenshots)
 
 ### Service Portal
 
 The Service Portal through which employees can access the issue submission functionality.
 
-![Service Portal](https://drive.google.com/drive/folders/1XWaFzNgYsMqIwuGcWTROwQAoAZLa-94j?usp=drive_link)
+![Service Portal](https://github.com/Lokeswary-bit/employee-raise-issue-servicenow/tree/main/screenshots)
 
 ### Employee Raise Issue Form
 
 The form used by employees to enter and submit their issue details.
 
-![Employee Issue Form](https://drive.google.com/drive/folders/1XWaFzNgYsMqIwuGcWTROwQAoAZLa-94j?usp=drive_link)
+![Employee Issue Form](https://github.com/Lokeswary-bit/employee-raise-issue-servicenow/tree/main/screenshots)
 
 ### Created Employee Issue Record
 
 After submitting the form, the issue is stored as a new record in the Employee Raise Issue table.
 
-![Created Employee Issue Record](https://drive.google.com/drive/folders/1XWaFzNgYsMqIwuGcWTROwQAoAZLa-94j?usp=drive_link)
+![Created Employee Issue Record](https://github.com/Lokeswary-bit/employee-raise-issue-servicenow/tree/main/screenshots)
 
 ## Testing
 

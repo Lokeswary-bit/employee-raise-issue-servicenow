@@ -132,7 +132,7 @@ The application was tested by submitting an employee issue through the Service P
 
 The custom application created for the Employee Raise Issue project.
 
-![ServiceNow Application](https://drive.google.com/drive/folders/1XWaFzNgYsMqIwuGcWTROwQAoAZLa-94j?usp=sharing)
+![ServiceNow Application](https://github.com/Lokeswary-bit/employee-raise-issue-servicenow/tree/main/screenshots)
 
 ### Employee Raise Issue Table
 
